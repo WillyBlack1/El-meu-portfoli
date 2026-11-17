@@ -3,6 +3,12 @@ body {
     margin: 0;
 }
 
+form{
+  display: grid;
+  grid-template-columns: 300px;
+
+}
+
 img {
     border-radius: 15px;
     border: 5px solid black;
